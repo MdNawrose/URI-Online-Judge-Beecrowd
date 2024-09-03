@@ -7,6 +7,7 @@ int main()
 
     s=(((A+B)+abs(A-B))/2);
     r=(((s+C)+abs(s-C))/2);
+
     printf("%d eh o maior\n",r);
     return 0;
 
