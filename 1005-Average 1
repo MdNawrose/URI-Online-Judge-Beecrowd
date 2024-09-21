@@ -2,7 +2,7 @@
 int main()
 {
     double A,B,Avarage;
-    scanf("%lf",&A);
+    scanf("%lf",&A); 
     scanf("%lf",&B);
 
     Avarage = (A*3.5+B*7.5)/11 ;
