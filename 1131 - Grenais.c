@@ -6,7 +6,7 @@ int main()
     c=1;
     if(i==g)
     {
-        f=1;
+        f=1; 
         up=0;
         dn=0;
     }
